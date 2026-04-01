@@ -1,10 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 
-import img1 from "./assets/profile1.jpeg";
-import img2 from "./assets/profile2.jpeg";
-
 /* ═══════════════════════════════════════════
-   THEME TOKENS  (light = exact HTML palette)
+  THEME TOKENS  (light = exact HTML palette)
 ═══════════════════════════════════════════ */
 const THEMES = {
   light: {
