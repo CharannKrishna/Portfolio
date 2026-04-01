@@ -6,7 +6,7 @@ Welcome to my little corner of the internet — a portfolio that’s part engine
 
 ---
 
-## Who am I? Okay this a deep question.
+## Who am I? Okay this is a deep question.
 
 But who actually am I?
 I’m a **Java Full-Stack Developer** who enjoys:
