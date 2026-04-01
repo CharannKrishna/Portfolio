@@ -2,12 +2,13 @@
 
 > *“I build systems that don’t panic when traffic spikes.”* 
 
-Welcome to my little corner of the internet — a portfolio that’s part engineer, part designer, and 100% caffeine-powered ☕
+Welcome to my little corner of the internet — a portfolio that’s part engineer, part designer, and 100% caffeine-powered 
 
 ---
 
-## Who am I?
+## Who am I? Okay this a deep question.
 
+But who actually am I?
 I’m a **Java Full-Stack Developer** who enjoys:
 
 * Turning complex problems into clean architectures
