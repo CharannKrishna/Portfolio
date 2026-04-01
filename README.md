@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+# Hey, I'm Hari Charan Krishna Nori
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> *“I build systems that don’t panic when traffic spikes.”* 
 
-## Available Scripts
+Welcome to my little corner of the internet — a portfolio that’s part engineer, part designer, and 100% caffeine-powered ☕
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Who am I?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I’m a **Java Full-Stack Developer** who enjoys:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Turning complex problems into clean architectures
+* Building microservices that actually scale (not just in theory)
+* Making sure backend logic doesn’t become a horror story
 
-### `npm test`
+Currently working on enterprise-grade systems in automotive and CPQ domains — where performance, reliability, and sanity all matter.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ⚙️ Tech Stack (aka my toolbox)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Backend:**
+Java • Spring Boot • REST APIs • Microservices
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Frontend:**
+React • TypeScript • Redux • JavaScript (ES6+)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Cloud & Infra:**
+AWS (Lambda, Step Functions, S3, RDS, CDK)
 
-### `npm run eject`
+**Databases:**
+PostgreSQL • MySQL • MongoDB • Snowflake • Firebase
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**DevOps & Testing:**
+Jenkins • Docker • GitHub Actions • JUnit • Jest • Playwright
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+##  Projects That Actually Do Things
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Agentic AI Insurance Processor
 
-## Learn More
+* Automates claims processing using cloud-native architecture
+* Reduced manual effort by **75%**
+* Built with Java + AWS serverless stack
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Serverless Document Processing Platform
 
-### Code Splitting
+* Handles **10,000+ documents/day**
+* Uses AWS Textract + Lambda + CDK
+* Fully automated CI/CD pipelines
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Fun Stats (because numbers impress people)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* 3+ Years Experience
+* 50% Load Time Reduction achieved
+* 75% Automation in claims processing
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## What makes this portfolio different?
 
-### Advanced Configuration
+* Minimalist design (because recruiters don’t have time)
+* Smooth animations (because users deserve delight)
+* Clean architecture (because I practice what I preach)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## Let’s Connect
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+If you’re:
 
-### `npm run build` fails to minify
+* Building something cool 
+* Hiring someone who actually understands systems 
+* Or just want to talk tech 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Reach out!
+
+* Email: [charankrishna1227@gmail.com](mailto:charankrishna1227@gmail.com)
+* LinkedIn: linkedin.com/in/charan-krishna-n
+* GitHub: github.com/CharannKrishna
+
+---
+
+## Final Thought
+
+> “Good code works. Great code lasts. Legendary code doesn’t wake you up at 3 AM.”
+
+I aim for at least the second one 😄
+
+---
+
+⭐ If you liked this repo, give it a star — it makes my day better and my GitHub look cooler.
